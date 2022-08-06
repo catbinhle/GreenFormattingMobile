@@ -1,0 +1,5 @@
+node_modules
+Pods
+.idea
+.gradle
+build
